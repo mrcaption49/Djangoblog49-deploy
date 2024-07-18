@@ -31,7 +31,7 @@ SECRET_KEY = 'va)#9dh+yr#j+s#pmifooayce_naqm&v@=q=wu(cfjlbqo23nx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','blog-application-django49.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1','djangoblog49-deploy.onrender.com']
 
 
 # Application definition
