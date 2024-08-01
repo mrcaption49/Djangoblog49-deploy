@@ -1,8 +1,9 @@
 
-https://djangoblog49-deploy.onrender.com/
+https://djangoblog49.onrender.com/
 
 Demo 
-![image](https://github.com/user-attachments/assets/d0079dbd-a4f3-49c1-9729-3b2ecad8a467)
+![image](https://github.com/user-attachments/assets/9708254a-8dec-45b7-932d-0f09294166a2)
+
 
 
 View post collect static command
